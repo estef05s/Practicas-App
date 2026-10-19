@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">practice2.1</string>
+    <string name="materia">developmnet application mobile</string>
+    <string name="nombre">Gloria Estefania\nSalas Arellano</string>
+    <string name="title">Practice 2.1</string>
+    <string name="back_btn">Back</string>
+    <string name="bottom_btn">Home</string>
+    <string name="home_fab_text">Add</string>
+    <string name="image_description">Profile picture</string>
+    <string name="apellido">Salas Arellano</string>
+
+</resources>

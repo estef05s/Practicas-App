@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">practice2.1</string>
+    <string name="materia">développer d\'application mobile </string>
+    <string name="nombre">Gloria Estefania\nSalas Arellano</string>
+    <string name="title">Pratique 2.1</string>
+    <string name="back_btn">Retour</string>
+    <string name="bottom_btn">Accueil</string>
+    <string name="home_fab_text">Ajouter</string>
+    <string name="image_description">Photo de profil</string>
+    <string name="apellido">Salas Arellano</string>
+</resources>

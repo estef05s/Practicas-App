@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practice2.1</string>
+    <string name="materia">Desarrollo de aplicaciones moviles </string>
+    <string name="nombre">Gloria Estefania</string>
+    <string name="title">Práctica 2.1</string>
+    <string name="back_btn">Atrás</string>
+    <string name="bottom_btn">Inicio</string>
+    <string name="home_fab_text">Añadir</string>
+    <string name="image_description">Foto de perfil</string>
+    <string name="apellido">Salas Arellano</string>
+</resources>
